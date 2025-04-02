@@ -12,6 +12,10 @@ Proyek ini memungkinkan Anda mengontrol kursor mouse komputer menggunakan geraka
 *   **Kalibrasi Real-time:** Panel GUI terpisah untuk mengatur smoothing gerakan mouse dan threshold jarak untuk deteksi klik.
 *   **Feedback Suara:** Suara untuk aksi klik dan memulai drag.
 
+## Diagram Arsitektur
+
+![Diagram Arsitektur](diagram.png)
+
 ## Teknologi yang Digunakan
 
 *   **Python 3:** Bahasa pemrograman utama.
